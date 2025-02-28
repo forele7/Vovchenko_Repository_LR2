@@ -3,3 +3,5 @@
 Тема: Знакомство с CKB Git
 
 Дата: 28 февраля 2025 г.
+
+# Some changes were made according to the instructions
